@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pray的博客</title>
+    <link>http:///https://github.com/pray233/</link>
+    <description>Recent content on Pray的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 13 May 2020 21:59:42 +0800</lastBuildDate>
+    
+	<atom:link href="http:///https://github.com/pray233/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myblog</title>
+      <link>http:///https://github.com/pray233/posts/myblog/</link>
+      <pubDate>Wed, 13 May 2020 21:59:42 +0800</pubDate>
+      
+      <guid>http:///https://github.com/pray233/posts/myblog/</guid>
+      <description>这是我的第一个Hugo博客 </description>
+    </item>
+    
+  </channel>
+</rss>
